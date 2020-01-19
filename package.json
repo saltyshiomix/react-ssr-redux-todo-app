@@ -1,4 +1,5 @@
 {
   "private": true,
-  "name": "react-ssr-redux-todo-app"
+  "name": "react-ssr-redux-todo-app",
+  "license": "MIT"
 }
