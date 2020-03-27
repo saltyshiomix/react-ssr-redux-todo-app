@@ -3,7 +3,8 @@
   "name": "react-ssr-redux-todo-app",
   "license": "MIT",
   "scripts": {
-    "dev": "tsnd --project tsconfig.server.json server/main.ts"
+    "dev": "tsnd --project tsconfig.server.json server/main.ts",
+    "build": "tsc --project tsconfig.server.json"
   },
   "dependencies": {
     "@react-ssr/core": "^0.21.15",
