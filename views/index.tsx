@@ -11,6 +11,7 @@ interface IndexPageProps {
 };
 
 const IndexPage = (props: IndexPageProps) => {
+  // use server data as preloaded state
   const preloadedState = {
     todos: props.todos,
   };
