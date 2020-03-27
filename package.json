@@ -6,8 +6,8 @@
     "dev": "ts-node --project tsconfig.server.json server/main.ts"
   },
   "dependencies": {
-    "@react-ssr/core": "^0.19.9",
-    "@react-ssr/express": "^0.19.9",
+    "@react-ssr/core": "^0.21.15",
+    "@react-ssr/express": "^0.21.15",
     "express": "^4.17.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
