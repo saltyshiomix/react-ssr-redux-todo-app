@@ -8,8 +8,8 @@
     "start": "cross-env NODE_ENV=production node dist/main.js"
   },
   "dependencies": {
-    "@react-ssr/core": "^0.21.18",
-    "@react-ssr/express": "^0.21.18",
+    "@react-ssr/core": "^0.22.0",
+    "@react-ssr/express": "^0.22.0",
     "express": "^4.17.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
